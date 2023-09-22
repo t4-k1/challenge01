@@ -10,10 +10,7 @@ This challenge allowed me to spend more time with documentation for both HTML an
 
 ## Usage
 
-To view the completed challenge, please go here: [challenge01]: [URL---](https://t4-k1.github.io/challenge01/)
-...
-You can learn more about [OpenAI].
-
+To view the completed challenge, please go here: [challenge01]:(https://t4-k1.github.io/challenge01/)
 
 ![completed project demo](assets/images/01-html-css-git-homework-demo.png)
 
